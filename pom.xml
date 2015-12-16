@@ -41,7 +41,9 @@
                         </goals>
                         <configuration>
                             <projectFile>src/test/atcm-story-integration-test.xml</projectFile>
-
+                            <projectProperties>
+                                <value>ServiceEndpoint=http://localhost:8080</value>
+                            </projectProperties>
                         </configuration>
                     </execution>
                 </executions>
