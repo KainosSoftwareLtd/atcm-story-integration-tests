@@ -42,7 +42,7 @@
                         <configuration>
                             <projectFile>src/test/atcm-story-integration-test.xml</projectFile>
                             <projectProperties>
-                                <value>ServiceEndpoint=http://localhost:8080</value>
+                                <value>ServiceEndpoint=http://int.hwp.lazzurs.com:8080/atcm-shop-0.0.1-SNAPSHOT</value>
                             </projectProperties>
                         </configuration>
                     </execution>
