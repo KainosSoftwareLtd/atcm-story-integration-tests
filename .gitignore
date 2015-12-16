@@ -1,0 +1,6 @@
+/target
+bal-groovy.log
+soapui-errors.log
+global-groovy.log
+soapui.log
+*FAILED.txt
